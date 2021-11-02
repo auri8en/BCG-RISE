@@ -17,3 +17,10 @@ Key Takeaways: Hyper-personalisation, consistency and reduced touch-points is cr
 Global Automotive Seating Company is a supplier of seating system for automobiles across the world. Our task was to create a dashboard with PowerBI to increase visibility in the production process. Key KPI to track include: Machine Utilisation, Right First Time, Scrap Rate, Downtime, Rework rate and Production pieces. 
 
 ![Automotive Dashboard](https://raw.githubusercontent.com/auri8en/Projects/54e81348e188ec58b64bbffc00f06abecb1a9377/Automotive/KPI.JPG)
+
+<b><a href="https://github.com/auri8en/Projects/tree/main/Cookie%20Cats"> 3) A/B Testing for Cookie Cats Mobile App </a></b>
+
+Cookie Cats is a popular Mobile Game App. This was a simple A/B statistical test to determine which game level would give better user retention. Tests conducted include Levene's, Mann Whitney U Test and a simple Bootstrap sampling. 
+
+![A/B Testing](https://github.com/auri8en/Projects/blob/main/Cookie%20Cats/Bootstrap%20Sampling.JPG)
+
