@@ -24,3 +24,8 @@ Cookie Cats is a popular Mobile Game App. This was a simple A/B statistical test
 
 ![A/B Testing](https://github.com/auri8en/Projects/blob/main/Cookie%20Cats/Bootstrap%20Sampling.JPG)
 
+<b><a href="https://github.com/auri8en/Projects/tree/main/Teleco"> 4) Predicting Fraud using Logistic Regression and Random Forest Classifiers </a></b>
+
+This project uses Logistic Regression and Random Forest to predict churn for a Teleco company. Just by targeting top 20% of customers, we can possibly identify 30% of churners and save over $78k. 
+
+![Lift Chart](https://github.com/auri8en/Projects/blob/main/Teleco/Lift%20Chart.PNG)
