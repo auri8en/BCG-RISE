@@ -20,7 +20,7 @@ Global Automotive Seating Company is a supplier of seating system for automobile
 
 <b><a href="https://github.com/auri8en/Projects/tree/main/Cookie%20Cats"> 3) A/B Testing for Cookie Cats Mobile App </a></b>
 
-Cookie Cats is a popular Mobile Game App. This was a simple A/B statistical test to determine which game level would give better user retention. Tests conducted include Levene's, Mann Whitney U Test and a simple Bootstrap sampling. 
+Cookie Cats is a popular Mobile Game App. This was a simple A/B statistical test to determine which game level would give better user retention. Tests conducted include Levene's, Mann Whitney U Test and a simple Bootstrap sampling. We found that leaving the game at a lower gate level (level 30) yielded better user retention rates. 
 
 ![A/B Testing](https://github.com/auri8en/Projects/blob/main/Cookie%20Cats/Bootstrap%20Sampling.JPG)
 
